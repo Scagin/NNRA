@@ -3,6 +3,7 @@ The noise data in the text classification training data is quickly corrected. Th
 
 # require
 python3
+
 numpy
 
 # run
